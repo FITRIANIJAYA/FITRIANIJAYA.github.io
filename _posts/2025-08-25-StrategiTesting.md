@@ -19,7 +19,6 @@ image: /assets/img/strategi-testing.png
 > Menemukan dan memperbaiki kesalahan dalam perangkat lunak **sebelum** produk dirilis ke pengguna akhir, sehingga memastikan kualitas, keamanan, dan keandalan aplikasi.
 
 ### **Mengapa Testing Itu Penting?**
-
 Bayangkan jika aplikasi banking Anda tiba-tiba error saat transfer uang, atau game favorit Anda *crash* di tengah permainan. Inilah yang dicegah oleh testing!
 
 **6 Manfaat Utama Software Testing:**
